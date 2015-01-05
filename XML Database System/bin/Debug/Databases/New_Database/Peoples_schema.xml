@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This is Peoples_schema.xml file-->
+<schema table="Peoples">
+  <Columns count="5">
+    <column index="1" name="National_id" type="numeric" indexType="primary" null="false" autoincrement="false" />
+    <column index="2" name="Name" type="string" indexType="none" null="false" autoincrement="false" />
+    <column index="3" name="Gender" type="string" indexType="none" null="false" autoincrement="false" />
+    <column index="4" name="Email" type="email" indexType="unique" null="false" autoincrement="false" />
+    <column index="5" name="Location" type="string" indexType="none" null="true" autoincrement="false" />
+  </Columns>
+</schema>

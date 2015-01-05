@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--this is Peoples.xml file-->
+<table name="Peoples" row="3">
+  <data_row id="1">
+    <National_id>4465454</National_id>
+    <Name>Ratnadip Kuri</Name>
+    <Gender>male</Gender>
+    <Email>ratnadip983@gmail.com</Email>
+    <Location>Noakhali</Location>
+  </data_row>
+  <data_row id="2">
+    <National_id>564534</National_id>
+    <Name>Arifur Rahaman</Name>
+    <Gender>male</Gender>
+    <Email>ar.arifbd@yahoo.com</Email>
+    <Location>Noakhali</Location>
+  </data_row>
+  <data_row id="3">
+    <National_id>46544</National_id>
+    <Name>Nurul Alam Masud</Name>
+    <Gender>male</Gender>
+    <Email>masud@gmail.com</Email>
+    <Location>Comilla</Location>
+  </data_row>
+</table>

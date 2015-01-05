@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This is Students_schema.xml file-->
+<schema table="Students">
+  <Columns count="3">
+    <column index="1" name="Roll_no" type="string" indexType="primary" null="false" autoincrement="false" />
+    <column index="2" name="Name" type="string" indexType="none" null="false" autoincrement="false" />
+    <column index="3" name="Email" type="email" indexType="unique" null="false" autoincrement="false" />
+  </Columns>
+</schema>

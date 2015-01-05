@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--This is CSTE_5th_batch_schema.xml file-->
+<schema table="CSTE_5th_batch">
+  <Columns count="4">
+    <column index="1" name="Roll_No" type="string" indexType="primary" null="false" autoincrement="false" />
+    <column index="2" name="Name" type="string" indexType="none" null="false" autoincrement="false" />
+    <column index="3" name="Email" type="email" indexType="unique" null="false" autoincrement="false" />
+    <column index="4" name="District" type="string" indexType="none" null="true" autoincrement="false" />
+  </Columns>
+</schema>
