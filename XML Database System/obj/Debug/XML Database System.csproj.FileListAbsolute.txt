@@ -43,3 +43,10 @@ G:\Extra\Programming\C#\Project\Using UserControl\XML Database System Final Vers
 G:\Extra\Programming\C#\Project\Using UserControl\XML Database System Final Version2\XML Database System Final Version\XML Database System\XML Database System\obj\Debug\XML Database System.csproj.GenerateResource.Cache
 G:\Extra\Programming\C#\Project\Using UserControl\XML Database System Final Version2\XML Database System Final Version\XML Database System\XML Database System\obj\Debug\XML Database System.exe.manifest
 G:\Extra\Programming\C#\Project\Using UserControl\XML Database System Final Version2\XML Database System Final Version\XML Database System\XML Database System\obj\Debug\XML Database System.application
+E:\Extra\Programming\C#\Project\Using_UserControl\abc\XML Database System\bin\Debug\XML Database System.exe.config
+E:\Extra\Programming\C#\Project\Using_UserControl\abc\XML Database System\obj\Debug\XML Database System.exe
+E:\Extra\Programming\C#\Project\Using_UserControl\abc\XML Database System\obj\Debug\XML Database System.pdb
+E:\Extra\Programming\C#\Project\Using_UserControl\abc\XML Database System\obj\Debug\XML Database System.csprojResolveAssemblyReference.cache
+E:\Extra\Programming\C#\Project\Using_UserControl\abc\XML Database System\obj\Debug\XML_Database_System.mainForm.resources
+E:\Extra\Programming\C#\Project\Using_UserControl\abc\XML Database System\obj\Debug\XML_Database_System.Properties.Resources.resources
+E:\Extra\Programming\C#\Project\Using_UserControl\abc\XML Database System\obj\Debug\XML Database System.csproj.GenerateResource.Cache
